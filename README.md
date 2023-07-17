@@ -122,7 +122,8 @@ newman.run({
 
   - In order to enable this reporter, specify htmlextra in Newman's -r or --reporters option. The following command will create a new report in the ./newman directory, if the directory does not exist, it will be created as part of the Newman run.
 
-       sudo newman run collection.json -r htmlextra
+
+               sudo newman run collection.json -r htmlextra
 
 ## Report Example
 
