@@ -126,12 +126,11 @@ newman.run({
 
 ## Report Example
 
-![image](https://github.com/Mamun104/newman-reporter-html-and-htmlextra-using-jsonserver-and-postman/assets/78067017/f6369cc9-63c5-48ec-8211-77dfdfac0bc9)
-
+![image](https://github.com/Mamun104/newman-reporter-html-and-htmlextra-using-jsonserver-and-postman/assets/78067017/a9d91f3d-8fe1-46c2-aad5-0a241279b6d2)
 
 # Newman-Reporter-HTML-Result:
 
-![image](https://github.com/Mamun104/newman-reporter-html-and-htmlextra-using-jsonserver-and-postman/assets/78067017/4dfbbef0-2c12-47ce-ae45-71eaff9efcdc)
+![image](https://github.com/Mamun104/newman-reporter-html-and-htmlextra-using-jsonserver-and-postman/assets/78067017/f6369cc9-63c5-48ec-8211-77dfdfac0bc9)
 
 # Newman-Reporter-HTML-Extra-Result:
 
